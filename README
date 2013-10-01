@@ -1,0 +1,13 @@
+SyncFS, a Synchronous File System.
+
+Copyright (C) 2008 by Scott Dial <scott@scottdial.com>
+Copyright (C) 2005 by Latchesar Ionkov <lucho@ionkov.net>
+
+A Synchronous File System (SyncFS) implemented using the Plan 9
+network filesystem protocol. This allows the synchronization of
+distributed systems using simple filesystem semantics that are
+commonly available.
+
+Contributors:
+  - Bryce Himebaugh (bhimebau@cs.indiana.edu)
+  - Steve Johnson (sjohnson@cs.indiana.edu)
